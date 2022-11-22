@@ -1,0 +1,3 @@
+.headerLink{
+    @apply cursor-pointer font-semibold opacity-75 transition  hover:opacity-100;
+}

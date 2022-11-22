@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slider_wraper{
+    @apply flex h-screen transition-all  duration-1000  items-center w-screen;
+}
+body{
+    @apply text-lg text-slate-800
+}
+
